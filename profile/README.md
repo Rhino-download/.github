@@ -1,6 +1,6 @@
 # Rhino download - Precision 3D CAD Modeling for Design and Fabrication
 
-![Rhino interface with NURBS modeling workspace](https://www.google.com/search?sca_esv=6c6d750135280a5c&rlz=1C1PNFE_enUA1210UA1215&sxsrf=APpeQntdDIOadJd2NQlDttA0iYkIL-jvvQ:1784747936013&udm=2&fbs=ABfTbFWOI39hq_BfQ0ybULIiHsxkd9YLmNgIk_P_r7cefiGFCWPOsy5qRNFqb0Ny4ezjpN7iI1I1PeObje_YJ6PHVc2xYlcNDrODFo9J-FLYPfVchVaVQujQRs_Ch8ZLhcp2HkeD7gwXtMg8wQm4LIeQSRpNpg5_o61avXUZ_dy47O6WAvFLZ9kb2DaVJvCtnutBsdaLrZao4wodHlCMTBGGA7aF1kl6Bwx5GNnhdrub3uHq32pj9Qo2v21dk-DFeQ9HRfnN2uKpUQTc9iWN43Lazb1rHeVQig&q=Rhino+logo&sa=X&ved=2ahUKEwiChPWVgOeVAxXf3wIHHa2hBiEQtKgLegQIExAB&biw=1366&bih=641&dpr=1#sv=CAMSXhoyKhBlLXQ2SFlWMWFzXzRISDJNMg50NkhZVjFhc180SEgyTToOU3JNTDVHUkZFbEkyUU0gBCokCg56aFR3NHcxRmZyUk1CTRIQZS10NkhZVjFhc180SEgyTRgAMAEYByCx1Y_vDkoIEAEYASABKAE)
+![Rhino interface with NURBS modeling workspace](https://cdn.dribbble.com/userupload/6337617/file/original-d02cc3da4a22cbedfc83b830fd4e93f3.jpg)
 
 ## Rhino Design Workspace Overview
 
